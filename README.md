@@ -5,6 +5,16 @@ A [box](http://exploring.liftweb.net/master/index-C.html) implementation for Swi
 This is useful when some values can contain errors, for example when
 fetching some model from an API.
 
+## Installation
+
+Add
+
+```
+pod 'SwiftBox'
+```
+
+to your PodFile.
+
 ## Example
 
 ```swift

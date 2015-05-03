@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SwiftBox"
-  s.version      = "0.1.0"
+  s.version      = "0.1.2"
   s.summary      = "A box implementation for Swift"
 
   s.description  = <<-DESC
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.9'
 
 
-  s.source       = { :git => "https://github.com/claudetech/swift-box.git", :tag => "v0.1.0" }
+  s.source       = { :git => "https://github.com/claudetech/swift-box.git", :tag => "v0.1.2" }
 
   s.source_files  = 'box/*.swift'
 
