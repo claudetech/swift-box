@@ -1,2 +1,4 @@
 **/*.xcodeproj/*
 !**/*.xcodeproj/project.pbxproj
+box/Info.plist
+boxTests/Info.plist
